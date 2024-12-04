@@ -3,5 +3,7 @@ Fake Calculator Password Manager. Works as an approximating calculator but has a
 
 # NACalculator
 - Number Approximating Calculator
- $ aka
+
+aka
+
 - Not A Calculator
